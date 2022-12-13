@@ -1,6 +1,3 @@
-Cloner ce projet en utlisant **git** et suivre les insctructions ...
-
-
 # Astronomie Blog
 
 Le projet consite a creer un **blog d'astronomie** avec administration
